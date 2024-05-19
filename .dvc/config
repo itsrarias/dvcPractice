@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gdrive://13ubGCzmBjZyCUDyYEoSzy9y4MI0oqI20
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = C:\Users\itsra\Downloads\dvcpractice-423801-868919a22641.json
