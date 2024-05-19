@@ -1,0 +1,5 @@
+outs:
+- md5: d87f67f1f26a773a58bb976246e97dfd
+  size: 515
+  hash: md5
+  path: dummyTeest2.py
